@@ -17,7 +17,7 @@
 | `README.md` | همین راهنما |
 
 فایل APK در بخش **Releases** نگهداری می‌شود:
-https://github.com/Hajmehrad/TriLex/releases/download/v1.4/TriLex.apk
+https://github.com/mehradcodes/TriLex/releases/download/v1.4/TriLex.apk
 
 ---
 
@@ -25,7 +25,7 @@ https://github.com/Hajmehrad/TriLex/releases/download/v1.4/TriLex.apk
 
 1. `index.html` و `README.md` را در ریپوی `TriLex` آپلود کنید.
 2. **Settings ← Pages ← Deploy from a branch ← main / (root)** را انتخاب و ذخیره کنید.
-3. بعد از حدود یک دقیقه آدرس صفحه آماده است: `https://Hajmehrad.github.io/TriLex/`
+3. بعد از حدود یک دقیقه آدرس صفحه آماده است: `https://mehradcodes.github.io/TriLex/`
 
 ---
 
